@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jeevan-aj
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Mern
+- 🌱 I’m currently Working on a Full stack car rental platform with react as frontend and exprss as backend
 - 💞️ I’m looking to collaborate on anything that i can learn 
 - 📫 How to reach me : mail - ambrahamjeevan@gmail.com
 
