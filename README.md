@@ -14,8 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/jeevan-aj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jeevan-aj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jeevan joji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeevan joji" height="30" width="40" /></a>
-<a href="https://hashnode.com/jeevanaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="jeevanaj" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/jeevan-joji-25b799275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeevan joji" height="30" width="40" /></a>
+<a href="https://hashnode.com/@jeevanaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="jeevanaj" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jeevan-aj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jeevan-aj" height="30" width="40" /></a>
 </p>
 
