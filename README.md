@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ambrahamjeevan@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGBo9yjS5s/yf-TAJ6iAUxKSi55ZFHv8g/view?utm_content=DAGBo9yjS5s&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAGBo9yjS5s/yf-TAJ6iAUxKSi55ZFHv8g/view?utm_content=DAGBo9yjS5s&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- 📄 Know about my experiences [Resume](https://www.canva.com/design/DAGBo9yjS5s/yf-TAJ6iAUxKSi55ZFHv8g/view?utm_content=DAGBo9yjS5s&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
