@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Jeevan Abraham Joji</h1>
-<h3 align="center">Self taught Developer</h3>
+<h1 align="center">Hi 👋, I'm Jeevan Abraham Joji <p>Self taught Developer</p></h1>
 
 <br>
-
-
 
 <h3 align="center">Languages and Tools:</h3>
 
