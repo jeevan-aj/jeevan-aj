@@ -4,7 +4,7 @@
 <br>
 
 <div align="center">
-  <div style="width: 50px; text-align: left;">
+  <div style="width: 50px; text-align: left;" align="right">
 
   - I’m currently working on [Rent a ride](https://github.com/jeevan-aj/Rent-a-Ride)
   - I’m currently learning **React.js advanced**
@@ -13,7 +13,9 @@
   
   </div>
 
-  <div style="text-align: left;">
+  <br>
+
+  <div style="text-align: left;" align="right">
 
   ### Connect with me:
 
