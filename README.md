@@ -1,27 +1,35 @@
 <h1 align="center">Hi 👋, I'm Jeevan Abraham Joji</h1>
 <h3 align="center">Self taught Developer</h3>
 
-<p align="center">
- 
--  I’m currently working on [Rent a ride](https://github.com/jeevan-aj/Rent-a-Ride)
+<br>
 
--  I’m currently learning **React.js advanced**
+<div style="display: flex; justify-content: center; align-items: center;">
+  <div style="width: 50px;">
+    <ul>
+      <li>I’m currently working on <a href="https://github.com/jeevan-aj/Rent-a-Ride">Rent a ride</a></li>
+      <li>I’m currently learning <strong>React.js advanced</strong></li>
+      <li>How to reach me <a href="">ambrahamjeevan@gmail.com</a></li>
+      <li>Know about my experiences <a href="https://www.canva.com/design/DAGBo9yjS5s/yf-TAJ6iAUxKSi55ZFHv8g/view?utm_content=DAGBo9yjS5s&utm_campaign=designshare&utm_medium=link&utm_source=editor">Resume</a></li>
+    </ul>
+  </div>
 
--  How to reach me **ambrahamjeevan@gmail.com**
+  <div>
+    <h3 align="left" style="padding-left: 20px;">Connect with me:</h3>
+    <p align="left" style="width: 100px;">
+      <a href="https://www.linkedin.com/in/jeevan-joji-25b799275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeevan joji" height="30" width="40" /></a>
+      <a href="https://dev.to/jeevan-aj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jeevan-aj" height="30" width="40" /></a>
+      <a href="https://hashnode.com/@jeevanaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="jeevanaj" height="30" width="40" /></a>
+      <a href="https://www.leetcode.com/jeevan-aj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jeevan-aj" height="30" width="40" /></a>
+    </p>
+  </div>
+</div>
 
--  Know about my experiences [Resume](https://www.canva.com/design/DAGBo9yjS5s/yf-TAJ6iAUxKSi55ZFHv8g/view?utm_content=DAGBo9yjS5s&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-</p>
+
 
 <br>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
- <a href="https://www.linkedin.com/in/jeevan-joji-25b799275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeevan joji" height="30" width="40" /></a>
-<a href="https://dev.to/jeevan-aj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jeevan-aj" height="30" width="40" /></a>
-<a href="https://hashnode.com/@jeevanaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="jeevanaj" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jeevan-aj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jeevan-aj" height="30" width="40" /></a>
-</p>
+
 
 
 
