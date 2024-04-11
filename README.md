@@ -3,44 +3,6 @@
 
 <br>
 
-<div align="center">
-  <div style="width: 50px; text-align: left;" align="right">
-
-  - I’m currently working on [Rent a ride](https://github.com/jeevan-aj/Rent-a-Ride)
-  - I’m currently learning **React.js advanced**
-  - How to reach me: [ambrahamjeevan@gmail.com](mailto:ambrahamjeevan@gmail.com)
-  - Know about my experiences: [Resume](https://www.canva.com/design/DAGBo9yjS5s/yf-TAJ6iAUxKSi55ZFHv8g/view?utm_content=DAGBo9yjS5s&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-  
-  </div>
-
-  <br>
-
-  <div style="text-align: left;" align="right">
-
-  ### Connect with me:
-
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="50">](https://www.linkedin.com/in/jeevan-joji-25b799275)
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" width="50">](https://dev.to/jeevan-aj)
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Hashnode" width="50">](https://hashnode.com/@jeevanaj)
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="50">](https://www.leetcode.com/jeevan-aj)
-
-
-
-  </div>
-</div>
-
-
-
-
-
-<br>
-
-
-
-
-
-<br>
-
 
 
 <h3 align="center">Languages and Tools:</h3>
@@ -77,7 +39,31 @@
 
 
 
+<div align="center">
+  <div style="width: 50px; text-align: left;" align="right">
 
+  - I’m currently working on [Rent a ride](https://github.com/jeevan-aj/Rent-a-Ride)
+  - I’m currently learning **React.js advanced**
+  - How to reach me: [ambrahamjeevan@gmail.com](mailto:ambrahamjeevan@gmail.com)
+  - Know about my experiences: [Resume](https://www.canva.com/design/DAGBo9yjS5s/yf-TAJ6iAUxKSi55ZFHv8g/view?utm_content=DAGBo9yjS5s&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+  
+  </div>
+
+  <br>
+
+  <div style="text-align: left;" align="right">
+
+  ### Connect with me:
+
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="50">](https://www.linkedin.com/in/jeevan-joji-25b799275)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" width="50">](https://dev.to/jeevan-aj)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Hashnode" width="50">](https://hashnode.com/@jeevanaj)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="50">](https://www.leetcode.com/jeevan-aj)
+
+
+
+  </div>
+</div>
 
 
 
