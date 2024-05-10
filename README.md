@@ -1,18 +1,19 @@
-<h1 align="center">Hi 👋, I'm Jeevan Abraham Joji <p>Self taught Developer</p></h1>
+<h1 align="left">Hi 👋, I'm Jeevan Abraham Joji <p>Full stack developer</p></h1>
+<h4>But I like FrontEnd more</h4>
 
 <br>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
  
 
-<p align="center"   style="max-width: 50px; width: 500px;>
+<p align="left"   style="max-width: 50px; width: 500px;>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,redux,js,typescript,nodejs,express,mongodb,html,css,tailwind,bootstrap,mui,py,django,git,postman,figma,notion,npm,bash,ps" />
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   </br>
   
   <a href="https://git.io/streak-stats">
@@ -37,7 +38,7 @@
 
 
 <div align="center">
-  <div style="width: 50px; text-align: left;" align="right">
+  <div style="width: 50px; text-align: left;" align="left">
 
   - I’m currently working on [Rent a ride](https://github.com/jeevan-aj/Rent-a-Ride)
   - I’m currently learning **React.js advanced**
@@ -48,7 +49,7 @@
 
   <br>
 
-  <div style="text-align: left;" align="right">
+  <div style="text-align: left;" align="left">
 
   ### Connect with me:
 
