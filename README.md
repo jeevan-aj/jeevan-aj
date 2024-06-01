@@ -5,8 +5,6 @@
 
 <h3 align="left">Languages and Tools: </h3>
 
-
-
      
 
 <p align="left"   style="max-width: 50px; width: 500px;>
