@@ -5,8 +5,6 @@
  
 <h3 align="left">Languages and Tools: </h3>
 
-     
-
 <p align="left"   style="max-width: 50px; width: 500px;>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,redux,js,typescript,nodejs,express,mongodb,html,css,tailwind,bootstrap,mui,py,django,git,postman,figma,notion,npm,bash,ps" />
