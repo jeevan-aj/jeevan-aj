@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Jeevan Abraham Joji <p>Full stack developer</p></h1>
+<h1 align="left">Hi 👋, I'm Jeevan Abraham Joji </h1>
 
 <br>
 <h3 align="left">Languages and Tools: </h3>
@@ -10,25 +10,6 @@
   </a>
 </p>
 
-
-<p align="left">
-  </br>
-  
-  <a href="https://git.io/streak-stats">
-    <img src=https://streak-stats.demolab.com/?user=jeevan-aj&&theme=tokyonight&&hide_border=true&card_width=495>
-  </a>
-   
-  </br>
-  </br>
-  </br>
-  
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jeevan-aj&hide_border=true&show_icons=true&theme=tokyonight&card_width=495 />
-  </a>
-    
-</p>
-
 <br>
 
 [![An image of @jeevan111's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jeevan111)](https://holopin.io/@jeevan111)
@@ -36,14 +17,7 @@
 
 
 <div align="center">
-  <div style="width: 50px; text-align: left;" align="left">
 
-  - I’m currently working on [Rent a ride](https://github.com/jeevan-aj/Rent-a-Ride)
-  - I’m currently learning **React.js advanced**
-  - How to reach me: [ambrahamjeevan@gmail.com](mailto:ambrahamjeevan@gmail.com)
-  - Know about my experiences: [Resume](https://www.canva.com/design/DAGBo9yjS5s/yf-TAJ6iAUxKSi55ZFHv8g/view?utm_content=DAGBo9yjS5s&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-  
-  </div>
 
   <br>
 
